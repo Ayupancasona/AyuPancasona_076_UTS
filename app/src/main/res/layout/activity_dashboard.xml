@@ -103,7 +103,6 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:hint="No HP"
-                android:layout_marginBottom="20dp"
                 />
 
             <EditText
